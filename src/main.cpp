@@ -5,7 +5,7 @@
 #include "config.h"
 
 #include "modules/barometer.h"
-// #include "modules/servodrive.h"
+#include "modules/servodrive.h"
 // #include "modules/accelerometer.h"
 
 #include "parser/AsyncStream.h"
